@@ -1,7 +1,8 @@
 body{
-	background: #ccc;
+	background: #ccc;;
 	margin: 0;
-	font-family: Helvetica;
+	font-family: "Times New Roman";
+	
 }
 
 .container {
@@ -13,6 +14,9 @@ body{
 		
 }
 
+ul li{
+		list-style: square;
+}
 article {
 	padding: 20px;
 	background: #fff;
@@ -23,5 +27,7 @@ article {
 }
 
 .recipe h2 {
-	
+	font-style: italic;
+	color: blue;
+	text-decoration: underline;
 }
