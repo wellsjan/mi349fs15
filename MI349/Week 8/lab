@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="media.css">
+<title>Media Queiries</title>
+</head>
+
+<body>
+ 
+<div class="column">
+	My name is Jannelle Wells and I go to Michigan State University. I am a 
+media and information major. I used to be a computer science major until 
+I discovered that wasn't for me.
+
+</div>
+
+
+
+
+
+</body>
+</html>
