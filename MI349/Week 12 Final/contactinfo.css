@@ -106,8 +106,14 @@ text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
+    h1 {
+        color: #000000;
+    }
+}
+
+@media only screen and (max-width: 500px) {
     body {
-        background-image: url("128-80.jpg");
+        background-image: url("128-124.jpg");
     }
 }
 
